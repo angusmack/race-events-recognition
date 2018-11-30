@@ -1,0 +1,11 @@
+train/collisions/*
+val/collisions/*
+train/not-collisions/*
+val/not-collisions/*
+dataold/*
+videos/*
+utils/__pycache__/*.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+research/retina/keras_retinanet
